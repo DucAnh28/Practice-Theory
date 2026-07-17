@@ -1,0 +1,23 @@
+{
+  "topics": [
+    "java-core",
+    "collections",
+    "concurrency",
+    "java-spring",
+    "jpa-hibernate",
+    "sql",
+    "kafka",
+    "redis",
+    "microservices",
+    "jvm-gc",
+    "system-design",
+    "security",
+    "testing",
+    "messaging",
+    "devops"
+  ],
+  "nextIndex": 1,
+  "lastDate": "2026-07-17",
+  "lastTopic": "collections",
+  "lastFile": "collections/2026-07-17-thread-safe-collections.md"
+}

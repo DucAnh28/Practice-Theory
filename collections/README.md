@@ -1,0 +1,3 @@
+# collections
+
+Thread-safe collections, complexity, equals/hashCode với Set/Map…
