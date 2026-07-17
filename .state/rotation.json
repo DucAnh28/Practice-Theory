@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 1,
-  "lastDate": "2026-07-17",
-  "lastTopic": "collections",
-  "lastFile": "collections/2026-07-17-thread-safe-collections.md"
+  "nextIndex": 3,
+  "lastDate": "2026-07-18",
+  "lastTopic": "concurrency",
+  "lastFile": "concurrency/2026-07-18-completablefuture-chaining.md"
 }
