@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 3,
-  "lastDate": "2026-07-18",
-  "lastTopic": "concurrency",
-  "lastFile": "concurrency/2026-07-18-completablefuture-chaining.md"
+  "nextIndex": 4,
+  "lastDate": "2026-07-20",
+  "lastTopic": "java-spring",
+  "lastFile": "java-spring/2026-07-20-transactional-rollback-rule.md"
 }
