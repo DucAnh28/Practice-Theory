@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 5,
-  "lastDate": "2026-07-21",
-  "lastTopic": "jpa-hibernate",
-  "lastFile": "jpa-hibernate/2026-07-21-n1-join-fetch.md"
+  "nextIndex": 6,
+  "lastDate": "2026-07-22",
+  "lastTopic": "sql",
+  "lastFile": "sql/2026-07-22-composite-index-column-order.md"
 }
