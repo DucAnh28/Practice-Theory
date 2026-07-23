@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 6,
-  "lastDate": "2026-07-22",
-  "lastTopic": "sql",
-  "lastFile": "sql/2026-07-22-composite-index-column-order.md"
+  "nextIndex": 7,
+  "lastDate": "2026-07-23",
+  "lastTopic": "kafka",
+  "lastFile": "kafka/2026-07-23-consumer-group-offset.md"
 }
