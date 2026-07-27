@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 8,
-  "lastDate": "2026-07-24",
-  "lastTopic": "redis",
-  "lastFile": "redis/2026-07-24-cache-patterns.md"
+  "nextIndex": 9,
+  "lastDate": "2026-07-27",
+  "lastTopic": "microservices",
+  "lastFile": "microservices/2026-07-27-circuit-breaker.md"
 }
