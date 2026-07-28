@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 9,
-  "lastDate": "2026-07-27",
-  "lastTopic": "microservices",
-  "lastFile": "microservices/2026-07-27-circuit-breaker.md"
+  "nextIndex": 10,
+  "lastDate": "2026-07-28",
+  "lastTopic": "jvm-gc",
+  "lastFile": "jvm-gc/2026-07-28-g1gc-basics.md"
 }
