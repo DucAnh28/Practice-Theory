@@ -14,7 +14,7 @@ Giả sử có một tháp bánh mì. Mỗi giây thì tháp cho 5 viên bánh (
 
 ## 3) Giải thích đơn giản cho dev
 
-Rate limiter giảm kbps đầu vào bằng cách giảmthrottle request. Token Bucket vận hành với 2 thông số: `rate` (tokens/giây) và `capacity` (số token tối đa). Mỗi request tiêu tốn 1 token; nếu hết, request bị từ chối hoặc delay.
+Rate limiter giảm kbps đầu vào bằng cách giảm throttle request. Token Bucket vận hành với 2 thông số: `rate` (tokens/giây) và `capacity` (số token tối đa). Mỗi request tiêu tốn 1 token; nếu hết, request bị từ chối hoặc delay.
 
 ## 4) Ví dụ code đơn giản
 
