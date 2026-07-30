@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 11,
-  "lastDate": "2026-07-29",
-  "lastTopic": "system-design",
-  "lastFile": "system-design/2026-07-29-rate-limiter.md"
+  "nextIndex": 12,
+  "lastDate": "2026-07-30",
+  "lastTopic": "security",
+  "lastFile": "security/2026-07-30-jwt-vs-oauth2.md"
 }
