@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 12,
-  "lastDate": "2026-07-30",
-  "lastTopic": "security",
-  "lastFile": "security/2026-07-30-jwt-vs-oauth2.md"
+  "nextIndex": 13,
+  "lastDate": "2026-07-31",
+  "lastTopic": "testing",
+  "lastFile": "testing/2026-07-31-testcontainers-integration-test.md"
 }
