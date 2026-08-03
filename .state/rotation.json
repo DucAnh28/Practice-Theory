@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 13,
-  "lastDate": "2026-07-31",
-  "lastTopic": "testing",
-  "lastFile": "testing/2026-07-31-testcontainers-integration-test.md"
+  "nextIndex": 14,
+  "lastDate": "2026-08-03",
+  "lastTopic": "messaging",
+  "lastFile": "messaging/2026-08-03-message-queue-patterns.md"
 }
