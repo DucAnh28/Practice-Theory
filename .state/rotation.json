@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 14,
-  "lastDate": "2026-08-03",
-  "lastTopic": "messaging",
-  "lastFile": "messaging/2026-08-03-message-queue-patterns.md"
+  "nextIndex": 0,
+  "lastDate": "2026-08-04",
+  "lastTopic": "devops",
+  "lastFile": "devops/2026-08-04-docker-healthcheck.md"
 }
