@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 0,
-  "lastDate": "2026-08-04",
-  "lastTopic": "devops",
-  "lastFile": "devops/2026-08-04-docker-healthcheck.md"
+  "nextIndex": 1,
+  "lastDate": "2026-08-05",
+  "lastTopic": "java-core",
+  "lastFile": "java-core/2026-08-05-equals-hashcode-implementation.md"
 }
