@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 1,
-  "lastDate": "2026-08-05",
-  "lastTopic": "java-core",
-  "lastFile": "java-core/2026-08-05-equals-hashcode-implementation.md"
+  "nextIndex": 2,
+  "lastDate": "2026-08-06",
+  "lastTopic": "collections",
+  "lastFile": "collections/2026-08-06-hashmap-collision.md"
 }
