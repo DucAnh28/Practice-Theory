@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 2,
-  "lastDate": "2026-08-06",
-  "lastTopic": "collections",
-  "lastFile": "collections/2026-08-06-hashmap-collision.md"
+  "nextIndex": 3,
+  "lastDate": "2026-08-07",
+  "lastTopic": "concurrency",
+  "lastFile": "concurrency/2026-08-07-volatile-visibility-atomicity.md"
 }
