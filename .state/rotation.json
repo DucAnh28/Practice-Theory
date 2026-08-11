@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 4,
-  "lastDate": "2026-08-10",
-  "lastTopic": "java-spring",
-  "lastFile": "java-spring/2026-08-10-spring-bean-scope-thread-safety.md"
+  "nextIndex": 5,
+  "lastDate": "2026-08-11",
+  "lastTopic": "jpa-hibernate",
+  "lastFile": "jpa-hibernate/2026-08-11-jpa-n-plus-one.md"
 }
