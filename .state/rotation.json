@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 6,
-  "lastDate": "2026-08-12",
-  "lastTopic": "kafka",
-  "lastFile": "kafka/2026-08-12-kafka-consumer-group-offset.md"
+  "nextIndex": 8,
+  "lastDate": "2026-08-13",
+  "lastTopic": "redis",
+  "lastFile": "redis/2026-08-13-redis-eviction-ttl.md"
 }
