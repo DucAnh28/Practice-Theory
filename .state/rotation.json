@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 8,
-  "lastDate": "2026-08-13",
-  "lastTopic": "redis",
-  "lastFile": "redis/2026-08-13-redis-eviction-ttl.md"
+  "nextIndex": 9,
+  "lastDate": "2026-08-14",
+  "lastTopic": "microservices",
+  "lastFile": "microservices/2026-08-14-saga-pattern.md"
 }
