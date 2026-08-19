@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 11,
-  "lastDate": "2026-08-18",
-  "lastTopic": "system-design",
-  "lastFile": "system-design/2026-08-18-api-versioning.md"
+  "nextIndex": 12,
+  "lastDate": "2026-08-19",
+  "lastTopic": "security",
+  "lastFile": "security/2026-08-19-jwt-access-vs-refresh-token.md"
 }
