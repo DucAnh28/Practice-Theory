@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 13,
-  "lastDate": "2026-08-20",
-  "lastTopic": "testing",
-  "lastFile": "testing/2026-08-20-unit-vs-integration-test.md"
+  "nextIndex": 14,
+  "lastDate": "2026-08-21",
+  "lastTopic": "messaging",
+  "lastFile": "messaging/2026-08-21-message-delivery-guarantees.md"
 }
