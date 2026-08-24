@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 14,
-  "lastDate": "2026-08-21",
-  "lastTopic": "messaging",
-  "lastFile": "messaging/2026-08-21-message-delivery-guarantees.md"
+  "nextIndex": 0,
+  "lastDate": "2026-08-24",
+  "lastTopic": "devops",
+  "lastFile": "devops/2026-08-24-docker-multi-stage-build.md"
 }
