@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 2,
-  "lastDate": "2026-08-26",
-  "lastTopic": "collections",
-  "lastFile": "collections/2026-08-26-arraylist-vs-linkedlist.md"
+  "nextIndex": 3,
+  "lastDate": "2026-08-27",
+  "lastTopic": "concurrency",
+  "lastFile": "concurrency/2026-08-27-completablefuture-exception-handling.md"
 }
