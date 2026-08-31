@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 3,
-  "lastDate": "2026-08-27",
-  "lastTopic": "concurrency",
-  "lastFile": "concurrency/2026-08-27-completablefuture-exception-handling.md"
+  "nextIndex": 4,
+  "lastDate": "2026-08-31",
+  "lastTopic": "java-spring",
+  "lastFile": "java-spring/2026-08-31-spring-transaction-propagation.md"
 }
