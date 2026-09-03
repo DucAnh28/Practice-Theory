@@ -38,7 +38,7 @@ Nội dung:
 
 ## Automation
 
-OpenClaw cron: **T2–T6**, timezone `Asia/Saigon`, tạo 1 note/ngày → commit + push repo này → gửi tóm tắt Telegram.
+OpenClaw automation: **T2–T6**, timezone `Asia/Saigon`; bỏ qua ngày nghỉ lễ, Tết và ngày nghỉ bù chính thức tại Việt Nam; ngày làm việc tạo 1 note → commit + push repo này → gửi tóm tắt Telegram.
 
 ## Rotation
 

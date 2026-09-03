@@ -1,6 +1,13 @@
 # Daily Java Interview Practice Job
 
-Mục tiêu: mỗi ngày làm việc (T2–T6, Asia/Saigon) tạo 1 note ngắn để luyện phỏng vấn Java Developer mức Middle+ / Senior, commit và push lên repo này.
+Mục tiêu: mỗi ngày làm việc (T2–T6, Asia/Saigon), trừ ngày nghỉ lễ chính thức tại Việt Nam, tạo 1 note ngắn để luyện phỏng vấn Java Developer mức Middle+ / Senior, commit và push lên repo này.
+
+## Kiểm tra ngày nghỉ
+
+1. Trước khi tạo note, kiểm tra ngày hiện tại theo `Asia/Saigon`.
+2. Nếu là ngày nghỉ lễ, Tết hoặc ngày nghỉ bù chính thức tại Việt Nam theo thông báo áp dụng cho năm hiện tại, dừng job thành công; không tạo file, không cập nhật `.state/rotation.json`, không commit và không push.
+3. Khi bỏ qua, gửi thông báo ngắn: `Hôm nay là ngày nghỉ lễ/nghỉ bù tại Việt Nam nên không tạo bài luyện tập.`
+4. Không tự suy diễn ngày nghỉ liền kề; chỉ bỏ qua khi có nguồn chính thức xác nhận.
 
 ## Cách chọn topic
 
