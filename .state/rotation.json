@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 4,
-  "lastDate": "2026-08-31",
-  "lastTopic": "java-spring",
-  "lastFile": "java-spring/2026-08-31-spring-transaction-propagation.md"
+  "nextIndex": 5,
+  "lastDate": "2026-09-03",
+  "lastTopic": "jpa-hibernate",
+  "lastFile": "jpa-hibernate/2026-09-03-orphan-removal-vs-cascade-remove.md"
 }
