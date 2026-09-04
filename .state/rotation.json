@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 5,
-  "lastDate": "2026-09-03",
-  "lastTopic": "jpa-hibernate",
-  "lastFile": "jpa-hibernate/2026-09-03-orphan-removal-vs-cascade-remove.md"
+  "nextIndex": 6,
+  "lastDate": "2026-09-04",
+  "lastTopic": "sql",
+  "lastFile": "sql/2026-09-04-transaction-isolation-phantom-read.md"
 }
