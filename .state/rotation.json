@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 6,
-  "lastDate": "2026-09-04",
-  "lastTopic": "sql",
-  "lastFile": "sql/2026-09-04-transaction-isolation-phantom-read.md"
+  "nextIndex": 7,
+  "lastDate": "2026-09-07",
+  "lastTopic": "kafka",
+  "lastFile": "kafka/2026-09-07-idempotent-producer.md"
 }
