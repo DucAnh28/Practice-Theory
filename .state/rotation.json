@@ -16,8 +16,8 @@
     "messaging",
     "devops"
   ],
-  "nextIndex": 7,
-  "lastDate": "2026-09-07",
-  "lastTopic": "kafka",
-  "lastFile": "kafka/2026-09-07-idempotent-producer.md"
+  "nextIndex": 8,
+  "lastDate": "2026-09-08",
+  "lastTopic": "redis",
+  "lastFile": "redis/2026-09-08-cache-aside-cache-stampede.md"
 }
