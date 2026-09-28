@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-09-25",
-  "lastTopic": "testing",
-  "lastFile": "testing/2026-09-25-mock-vs-stub-vs-spy.md",
-  "nextIndex": 13,
+  "lastDate": "2026-09-28",
+  "lastTopic": "messaging",
+  "lastFile": "messaging/2026-09-28-message-queue-ordering-guarantee.md",
+  "nextIndex": 14,
   "topics": [
     "java-core",
     "collections",
