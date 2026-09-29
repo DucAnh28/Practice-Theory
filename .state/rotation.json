@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-09-28",
-  "lastTopic": "messaging",
-  "lastFile": "messaging/2026-09-28-message-queue-ordering-guarantee.md",
-  "nextIndex": 14,
+  "lastDate": "2026-09-29",
+  "lastTopic": "devops",
+  "lastFile": "devops/2026-09-29-ci-cd-pipeline-github-actions.md",
+  "nextIndex": 0,
   "topics": [
     "java-core",
     "collections",
