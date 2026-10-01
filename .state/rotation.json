@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-09-29",
-  "lastTopic": "devops",
-  "lastFile": "devops/2026-09-29-ci-cd-pipeline-github-actions.md",
-  "nextIndex": 0,
+  "lastDate": "2026-10-01",
+  "lastTopic": "java-core",
+  "lastFile": "java-core/2026-10-01-generics-pecs.md",
+  "nextIndex": 1,
   "topics": [
     "java-core",
     "collections",
