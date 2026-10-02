@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-01",
-  "lastTopic": "java-core",
-  "lastFile": "java-core/2026-10-01-generics-pecs.md",
-  "nextIndex": 1,
+  "lastDate": "2026-10-02",
+  "lastTopic": "collections",
+  "lastFile": "collections/2026-10-02-treemap-vs-hashmap.md",
+  "nextIndex": 2,
   "topics": [
     "java-core",
     "collections",
