@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-02",
-  "lastTopic": "collections",
-  "lastFile": "collections/2026-10-02-treemap-vs-hashmap.md",
-  "nextIndex": 2,
+  "lastDate": "2026-10-05",
+  "lastTopic": "concurrency",
+  "lastFile": "concurrency/2026-10-05-volatile-keyword.md",
+  "nextIndex": 3,
   "topics": [
     "java-core",
     "collections",
