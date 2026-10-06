@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-05",
-  "lastTopic": "concurrency",
-  "lastFile": "concurrency/2026-10-05-volatile-keyword.md",
-  "nextIndex": 3,
+  "lastDate": "2026-10-06",
+  "lastFile": "java-spring/2026-10-06-spring-aop-self-invocation-bypass.md",
+  "lastTopic": "java-spring",
+  "nextIndex": 4,
   "topics": [
     "java-core",
     "collections",
