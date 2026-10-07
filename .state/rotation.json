@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-06",
-  "lastFile": "java-spring/2026-10-06-spring-aop-self-invocation-bypass.md",
-  "lastTopic": "java-spring",
-  "nextIndex": 4,
+  "lastDate": "2026-10-07",
+  "lastFile": "jpa-hibernate/2026-10-07-entity-state-merge-vs-persist.md",
+  "lastTopic": "jpa-hibernate",
+  "nextIndex": 5,
   "topics": [
     "java-core",
     "collections",
