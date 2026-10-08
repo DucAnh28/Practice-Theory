@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-07",
-  "lastFile": "jpa-hibernate/2026-10-07-entity-state-merge-vs-persist.md",
-  "lastTopic": "jpa-hibernate",
-  "nextIndex": 5,
+  "lastDate": "2026-10-08",
+  "lastFile": "sql/2026-10-08-index-covering-vs-partial.md",
+  "lastTopic": "sql",
+  "nextIndex": 6,
   "topics": [
     "java-core",
     "collections",
