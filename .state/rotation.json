@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-08",
-  "lastFile": "sql/2026-10-08-index-covering-vs-partial.md",
-  "lastTopic": "sql",
-  "nextIndex": 6,
+  "lastDate": "2026-10-09",
+  "lastFile": "kafka/2026-10-09-producer-idempotence-exactly-once.md",
+  "lastTopic": "kafka",
+  "nextIndex": 7,
   "topics": [
     "java-core",
     "collections",
