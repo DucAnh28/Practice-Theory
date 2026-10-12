@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-09",
-  "lastFile": "kafka/2026-10-09-producer-idempotence-exactly-once.md",
-  "lastTopic": "kafka",
-  "nextIndex": 7,
+  "lastDate": "2026-10-12",
+  "lastFile": "redis/2026-10-12-cache-eviction-policies.md",
+  "lastTopic": "redis",
+  "nextIndex": 8,
   "topics": [
     "java-core",
     "collections",
