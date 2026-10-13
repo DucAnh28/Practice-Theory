@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-12",
-  "lastFile": "redis/2026-10-12-cache-eviction-policies.md",
-  "lastTopic": "redis",
-  "nextIndex": 8,
+  "lastDate": "2026-10-13",
+  "lastFile": "microservices/2026-10-13-idempotency-keys.md",
+  "lastTopic": "microservices",
+  "nextIndex": 9,
   "topics": [
     "java-core",
     "collections",
