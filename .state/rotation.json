@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-13",
-  "lastFile": "microservices/2026-10-13-idempotency-keys.md",
-  "lastTopic": "microservices",
-  "nextIndex": 9,
+  "lastDate": "2026-10-14",
+  "lastFile": "jvm-gc/2026-10-14-g1gc-vs-zgc-vs-shenandoah.md",
+  "lastTopic": "jvm-gc",
+  "nextIndex": 10,
   "topics": [
     "java-core",
     "collections",
