@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-14",
-  "lastFile": "jvm-gc/2026-10-14-g1gc-vs-zgc-vs-shenandoah.md",
-  "lastTopic": "jvm-gc",
-  "nextIndex": 10,
+  "lastDate": "2026-10-15",
+  "lastFile": "system-design/2026-10-15-api-rate-limiting.md",
+  "lastTopic": "system-design",
+  "nextIndex": 11,
   "topics": [
     "java-core",
     "collections",
