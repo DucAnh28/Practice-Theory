@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-16",
-  "lastFile": "security/2026-10-16-cors-cookie-security.md",
-  "lastTopic": "security",
-  "nextIndex": 12,
+  "lastDate": "2026-10-19",
+  "lastFile": "testing/2026-10-19-property-based-testing.md",
+  "lastTopic": "testing",
+  "nextIndex": 13,
   "topics": [
     "java-core",
     "collections",
