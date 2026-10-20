@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-19",
-  "lastFile": "testing/2026-10-19-property-based-testing.md",
-  "lastTopic": "testing",
-  "nextIndex": 13,
+  "lastDate": "2026-10-20",
+  "lastFile": "messaging/2026-10-20-message-queue-at-least-once-exactly-once.md",
+  "lastTopic": "messaging",
+  "nextIndex": 14,
   "topics": [
     "java-core",
     "collections",
