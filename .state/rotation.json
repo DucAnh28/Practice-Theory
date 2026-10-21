@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-20",
-  "lastFile": "messaging/2026-10-20-message-queue-at-least-once-exactly-once.md",
-  "lastTopic": "messaging",
-  "nextIndex": 14,
+  "lastDate": "2026-10-21",
+  "lastFile": "devops/2026-10-21-docker-registry-tagging-strategy.md",
+  "lastTopic": "devops",
+  "nextIndex": 0,
   "topics": [
     "java-core",
     "collections",
