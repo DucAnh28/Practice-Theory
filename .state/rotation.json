@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-21",
-  "lastFile": "devops/2026-10-21-docker-registry-tagging-strategy.md",
-  "lastTopic": "devops",
-  "nextIndex": 0,
+  "lastDate": "2026-10-22",
+  "lastTopic": "java-core",
+  "lastFile": "java-core/2026-10-22-string-interning-string-pool.md",
+  "nextIndex": 1,
   "topics": [
     "java-core",
     "collections",
