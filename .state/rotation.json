@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-23",
-  "lastTopic": "collections",
-  "lastFile": "collections/2026-10-23-concurrenthashmap-vs-synchronizedmap.md",
-  "nextIndex": 2,
+  "lastDate": "2026-10-26",
+  "lastFile": "concurrency/2026-10-26-concurrency-sync-maps.md",
+  "lastTopic": "concurrency",
+  "nextIndex": 3,
   "topics": [
     "java-core",
     "collections",
