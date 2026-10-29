@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-27",
-  "lastFile": "jpa-hibernate/2026-10-27-jpa-n-plus-1-problem.md",
-  "lastTopic": "jpa-hibernate",
-  "nextIndex": 4,
+  "lastDate": "2026-10-29",
+  "lastFile": "concurrency/2026-10-29-virtual-threads-loom.md",
+  "lastTopic": "concurrency",
+  "nextIndex": 3,
   "topics": [
     "java-core",
     "collections",
