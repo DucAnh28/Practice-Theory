@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-10-29",
-  "lastFile": "concurrency/2026-10-29-virtual-threads-loom.md",
-  "lastTopic": "concurrency",
-  "nextIndex": 3,
+  "lastDate": "2026-10-30",
+  "lastFile": "java-spring/2026-10-30-spring-bean-scope-thread-safety.md",
+  "lastTopic": "java-spring",
+  "nextIndex": 4,
   "topics": [
     "java-core",
     "collections",
