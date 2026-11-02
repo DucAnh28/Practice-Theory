@@ -1,8 +1,8 @@
 {
   "lastDate": "2026-11-02",
-  "lastFile": "jpa-hibernate/2026-11-02-jpa-hibernate.md",
-  "lastTopic": "jpa-hibernate",
-  "nextIndex": 5,
+  "lastFile": "sql/2026-11-02-deadlock.md",
+  "lastTopic": "sql",
+  "nextIndex": 6,
   "topics": [
     "java-core",
     "collections",
