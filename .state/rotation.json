@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-02",
-  "lastFile": "sql/2026-11-02-deadlock.md",
-  "lastTopic": "sql",
-  "nextIndex": 6,
+  "lastDate": "2026-11-03",
+  "lastFile": "kafka/2026-11-03-log-compaction-retention.md",
+  "lastTopic": "kafka",
+  "nextIndex": 7,
   "topics": [
     "java-core",
     "collections",
