@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-03",
-  "lastFile": "kafka/2026-11-03-log-compaction-retention.md",
-  "lastTopic": "kafka",
-  "nextIndex": 7,
+  "lastDate": "2026-11-04",
+  "lastFile": "redis/2026-11-04-redis-data-structures-zset-bitmap-hll.md",
+  "lastTopic": "redis",
+  "nextIndex": 8,
   "topics": [
     "java-core",
     "collections",
