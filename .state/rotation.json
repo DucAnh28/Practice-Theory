@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-05",
-  "lastFile": "microservices/2026-11-05-service-discovery-client-side-load-balancing.md",
-  "lastTopic": "microservices",
-  "nextIndex": 9,
+  "lastDate": "2026-11-06",
+  "lastTopic": "jvm-gc",
+  "lastFile": "jvm-gc/2026-11-06-oom-memory-leak-diagnosis.md",
+  "nextIndex": 10,
   "topics": [
     "java-core",
     "collections",
