@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-06",
-  "lastTopic": "jvm-gc",
-  "lastFile": "jvm-gc/2026-11-06-oom-memory-leak-diagnosis.md",
-  "nextIndex": 10,
+  "lastDate": "2026-11-09",
+  "lastTopic": "system-design",
+  "lastFile": "system-design/2026-11-09-database-sharding-read-replica.md",
+  "nextIndex": 11,
   "topics": [
     "java-core",
     "collections",
