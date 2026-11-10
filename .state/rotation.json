@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-09",
-  "lastTopic": "system-design",
-  "lastFile": "system-design/2026-11-09-database-sharding-read-replica.md",
-  "nextIndex": 11,
+  "lastDate": "2026-11-10",
+  "lastTopic": "security",
+  "lastFile": "security/2026-11-10-password-hashing-bcrypt-argon2.md",
+  "nextIndex": 12,
   "topics": [
     "java-core",
     "collections",
