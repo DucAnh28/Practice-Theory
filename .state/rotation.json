@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-10",
-  "lastTopic": "security",
-  "lastFile": "security/2026-11-10-password-hashing-bcrypt-argon2.md",
-  "nextIndex": 12,
+  "lastDate": "2026-11-11",
+  "lastTopic": "testing",
+  "lastFile": "testing/2026-11-11-test-coverage-mutation-testing.md",
+  "nextIndex": 13,
   "topics": [
     "java-core",
     "collections",
