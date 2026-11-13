@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-12",
-  "lastTopic": "messaging",
-  "lastFile": "messaging/2026-11-12-retry-backoff-jitter-dlq.md",
-  "nextIndex": 14,
+  "lastDate": "2026-11-13",
+  "lastTopic": "devops",
+  "lastFile": "devops/2026-11-13-blue-green-canary-deployment.md",
+  "nextIndex": 0,
   "topics": [
     "java-core",
     "collections",
