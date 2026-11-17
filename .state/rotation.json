@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-16",
-  "lastTopic": "java-core",
-  "lastFile": "java-core/2026-11-16-record-immutable-data-carrier.md",
-  "nextIndex": 1,
+  "lastDate": "2026-11-17",
+  "lastTopic": "collections",
+  "lastFile": "collections/2026-11-17-list-of-arrays-aslist-mutable-immutable.md",
+  "nextIndex": 2,
   "topics": [
     "java-core",
     "collections",
