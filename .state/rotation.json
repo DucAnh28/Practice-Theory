@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-17",
-  "lastTopic": "collections",
-  "lastFile": "collections/2026-11-17-list-of-arrays-aslist-mutable-immutable.md",
-  "nextIndex": 2,
+  "lastDate": "2026-11-18",
+  "lastTopic": "concurrency",
+  "lastFile": "concurrency/2026-11-18-threadpoolexecutor-core-parameters.md",
+  "nextIndex": 3,
   "topics": [
     "java-core",
     "collections",
