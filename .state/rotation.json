@@ -1,8 +1,8 @@
 {
-  "lastDate": "2026-11-19",
-  "lastTopic": "java-spring",
-  "lastFile": "java-spring/2026-11-19-configuration-properties-binding.md",
-  "nextIndex": 4,
+  "lastDate": "2026-11-20",
+  "lastTopic": "jpa-hibernate",
+  "lastFile": "jpa-hibernate/2026-11-20-locking-and-optimistic-pessimistic.md",
+  "nextIndex": 5,
   "topics": [
     "java-core",
     "collections",
